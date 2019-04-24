@@ -1,2 +1,2 @@
-# actionscript-flash-game-demo
+# Actionscript Flash game demo 
 Simple adobe flash game ( .fla included )
